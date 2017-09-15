@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "zeppelin-solidity": "^1.2.0"
+  },
+  "name": "e11-contracts",
+  "version": "1.0.0",
+  "description": "Experimental Solidity Contracts",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "test": "truffle test"
+  },
+  "keywords": [
+    "experimenta",
+    "e11",
+    "solidity",
+    "contracts"
+  ],
+  "author": "Experimental Team",
+  "license": "ISC"
+}
